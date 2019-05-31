@@ -1,6 +1,3 @@
-os
-urllib2
-json
 termcolor
 colored
 cprint
