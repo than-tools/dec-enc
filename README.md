@@ -1,6 +1,6 @@
 # Encrypt and Decrypt Tools
-My Instagram : <font color='red'> @nathandeft </font>
-.
-<font face="Verdana" color="Dark Green"><b>Function : </b></font>
-Encrypt and Decrypt<br>
-<b> Author : </b<font face="Gothic" color="cyan"> NATHAN </font>
+<b> FUNCTION : </b> Encrypt and Decrypt Text
+<br><br>
+<b> AUTHOR : </b> NATHAN
+<b> AUTHOR INSTAGRAM : </b> @nathandeft
+<h5> Thanks To : Allah SWT, My Friends, and My Team</h5>
